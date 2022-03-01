@@ -1,0 +1,219 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A summary of occurrences, relating to the miraculous preservation of our late sovereign lord King Charles II. after the defeat of his army at Worcester in the year 1651 faithfully taken from the express personal testimony of those two worthy Roman Catholics, Thomas Whitgrave ... and Mr. John Hudleston priest ... the eminent instruments under God of the same preservation ...</title>
+            <author>Whitgrave, Thomas, fl. 1651.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1688</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 27 KB of XML-encoded text transcribed from 17 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A96432</idno>
+            <idno type="STC">Wing W2015A</idno>
+            <idno type="STC">ESTC R233044</idno>
+            <idno type="EEBO-CITATION">42476397</idno>
+            <idno type="OCLC">ocm 42476397</idno>
+            <idno type="VID">151444</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A96432)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 151444)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2259:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A summary of occurrences, relating to the miraculous preservation of our late sovereign lord King Charles II. after the defeat of his army at Worcester in the year 1651 faithfully taken from the express personal testimony of those two worthy Roman Catholics, Thomas Whitgrave ... and Mr. John Hudleston priest ... the eminent instruments under God of the same preservation ...</title>
+                  <author>Whitgrave, Thomas, fl. 1651.</author>
+                  <author>Hudleston, John, 1608-1698.</author>
+               </titleStmt>
+               <extent>[2], 5-34 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Henry Hills ...</publisher>
+                  <pubPlace>London,</pubPlace>
+                  <date>1688.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signatures: A¹⁷ (A₁, blank? wanting; A₆ incorrectly signed A₅)</note>
+                  <note>"Permissu Superiorum."</note>
+                  <note>Reproduction of original in: British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  II, --  King of England, 1630-1685.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-05</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2012-05</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:151444:1"/>
+            <p>A <hi>Summary of Occurrences,</hi> Relating to the Miraculous Preſervation Of our late Sovereign Lord King CHARLES II. After the Defeat of his Army at <hi>Worceſter</hi> in the Year 1651. Faithfully taken from the expreſs Perſonal Teſtimony of thoſe two worthy <hi>Roman Catholics, Thomas Whitgrave</hi> of <hi>Moſeley,</hi> in the County of <hi>Stafford</hi> Eſq; and Mr. <hi>John Hudleſton</hi> Prieſt, of the holy Order of St. <hi>Bennet;</hi> the eminent Inſtruments under God of the ſame Preſervation.</p>
+            <p>
+               <floatingText xml:lang="eng" type="license">
+                  <body>
+                     <p>
+                        <hi>Permiſſu Superiorum.</hi>
+                     </p>
+                  </body>
+               </floatingText>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>Henry Hills,</hi> Printer to the King's moſt Excellent Majeſty, for his Houſhold and Chappel; And are ſold at his Printing-houſe on the Ditch-ſide in <hi>Black-Friars.</hi> 1688.</p>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <pb facs="tcp:151444:2"/>
+            <pb n="5" facs="tcp:151444:2"/>
+            <head>A Summary of Occurrences relating to the miraculous Pre<g ref="char:EOLhyphen"/>ſervation of our late Sovereign Lord King <hi>CHARLES II.</hi> after the Defeat of his Army at <hi>Worceſter</hi> in the Year <hi>1651.</hi>
+            </head>
+            <head type="sub">Faithfully taken from the expreſs perſonal Teſtimony of thoſe two wor<g ref="char:EOLhyphen"/>thy <hi>Roman Catholics, Thomas Whitgrave</hi> of <hi>Moſeley,</hi> in the County of <hi>Stafford</hi> Eſquire, and Mr. <hi>John Hudleſton</hi> Prieſt, of the Holy Order of St. <hi>Bennet;</hi> the Eminent Inſtruments under God of the ſame Preſervation.</head>
+            <p>TO the end future Ages may be rightly informed, and duly ſenſible of the mer<g ref="char:EOLhyphen"/>cies and bleſſings of the Almighty
+<pb n="6" facs="tcp:151444:3"/>beſtowed upon our late Sovereign Lord of happy Memory King <hi>Charles</hi> II. and in him, upon the whole Nation, by the ſignal preſer<g ref="char:EOLhyphen"/>vation of his Sacred Life and Per<g ref="char:EOLhyphen"/>ſon, from the Hands of the Rebels after the defeat of his Army at <hi>Worceſter.</hi> We ſhall here, to the Glory of God the Protector of Princes, briefly ſet forth with all plainneſs and ſincerity, ſuch parti<g ref="char:EOLhyphen"/>cular Paſſages and Circumſtances as occurred immediately before, or during the time of the refuge and ſafety he found in his greateſt dan<g ref="char:EOLhyphen"/>ger and exigence at Mr. <hi>Whitgraves</hi> Houſe at <hi>Moſeley.</hi>
+            </p>
+            <p>Pleaſe therefore to know, That His Majeſties Army being on <hi>Wed<g ref="char:EOLhyphen"/>neſday</hi> the third of <hi>September</hi> (51.) wholly defeated at <hi>Worceſter;</hi> his Friends diſperſed; and Enemies in full purſuit of their Victory; The King conducted by Collonel <hi>Charles Gyf<g ref="char:EOLhyphen"/>ford,</hi>
+               <pb n="7" facs="tcp:151444:3"/>and accompanied with the Duke of <hi>Buckingham,</hi> Earl of <hi>Shrews<g ref="char:EOLhyphen"/>bury,</hi> Earl of <hi>Derby,</hi> Lord <hi>Wilmot,</hi> Mr. <hi>Peter Street,</hi> and others, retired on <hi>Thurſday</hi> Morning to a Houſe called <hi>White-Ladies,</hi> then appertain<g ref="char:EOLhyphen"/>ing to Miſtris <hi>Cotton</hi> Widow, and now the Inheritance of her Son-in-Law <hi>Baſil Fitz-herbert</hi> Eſquire, in <hi>Staffordſhire.</hi> There His Majeſty changed his Habit, cut his Hair, and transformed himſelf into the dreſs of a Country Peaſant; thus diſguiſed, he diſmiſſed all his Re<g ref="char:EOLhyphen"/>tinue, and committed his Perſon to the Fidelity of the <hi>Pendrells,</hi> poor Catholics, and labouring men, at, or about <hi>White-Ladies;</hi> with one of theſe <hi>Pendrels,</hi> named <hi>Ri<g ref="char:EOLhyphen"/>chard,</hi> the King ſpent the reſt of the day in a Neighbouring Wood, and at night attended only by the ſame <hi>Richard,</hi> ſet forwards his Journey towards <hi>Madeley</hi> in <hi>Shrop<g ref="char:EOLhyphen"/>ſhire,</hi>
+               <pb n="8" facs="tcp:151444:4"/>with intention to paſs over the River <hi>Severn</hi> into <hi>Wales,</hi> for the Recruit of his Army; but ar<g ref="char:EOLhyphen"/>riving near to the River ſide, he was informed by Mr. <hi>Wolfe</hi> a Ca<g ref="char:EOLhyphen"/>tholic at <hi>Madeley,</hi> that all the Fords and Paſſages were ſo ſtrongly guarded and obſtructed, there was no poſſibility of effect<g ref="char:EOLhyphen"/>ing his deſign; ſo that in this ex<g ref="char:EOLhyphen"/>tremity, he was forced after ha<g ref="char:EOLhyphen"/>ving abſconded all <hi>Friday</hi> in a cer<g ref="char:EOLhyphen"/>tain Barn of the ſaid Mr. <hi>Wolfes</hi> to come back the next Night, and re<g ref="char:EOLhyphen"/>gain his former <hi>Aſylum</hi> at ano<g ref="char:EOLhyphen"/>ther Houſe of Mr. <hi>Fitzherberts,</hi> called <hi>Boſcobel,</hi> Tenanted by <hi>Wil<g ref="char:EOLhyphen"/>liam Pendrel,</hi> Brother to <hi>Richard,</hi> and adjoining to <hi>White-Ladies.</hi> During this interval, thoſe Per<g ref="char:EOLhyphen"/>ſons of Quality whom the King had diſmiſſed from <hi>White-Ladies,</hi> endeavoured each one the beſt he could to provide for his own ſafety.</p>
+            <pb n="9" facs="tcp:151444:4"/>
+            <p>Amongſt others, the Lord <hi>Wilmot</hi> conjecturing the open ways leaſt ob<g ref="char:EOLhyphen"/>noxious to ſuſpition, departed the ſame <hi>Thurſday</hi> in the forenoon from <hi>White-Ladies,</hi> and took along with him <hi>John</hi> another Brother of the <hi>Pen<g ref="char:EOLhyphen"/>drels,</hi> as a Guide into the common Road between <hi>York</hi> and <hi>London,</hi> but he ſoon perceived himſelf diſ<g ref="char:EOLhyphen"/>appointed of his expectations herein, for the whole Country was Alarmed; The Enemy every where in purſuit; The Avenues on all ſides blocked up, and ſearches re<g ref="char:EOLhyphen"/>doubled by a promiſed Reward of One thouſand pounds to any one who would diſcover the King. Wherefore my Lord juſtly deſpair<g ref="char:EOLhyphen"/>ing of ſucceſs that way, took re<g ref="char:EOLhyphen"/>fuge in the Houſe of one Mr. <hi>Hunthatch</hi> of <hi>Brinford,</hi> near <hi>Moſe<g ref="char:EOLhyphen"/>ley,</hi> about four Miles from <hi>White-Laides,</hi> and ſheltered his Horſes in
+<pb n="10" facs="tcp:151444:5"/>a ruin'd Barn of a poor Cottager not far from thence. But this place affording him little or no hopes of reſt or ſafety, he ſent his Guide <hi>John</hi> to <hi>Wolverhampton,</hi> in queſt of ſome more ſecure Re<g ref="char:EOLhyphen"/>ceptacle. Here alſo <hi>John</hi> miſcar<g ref="char:EOLhyphen"/>rying, and fruſtrated wholly of all Relief; in his return to my Lord, by the ſingular conduct of Divine Providence, met with Mr. <hi>Hudleſton</hi> at a Place called <hi>Northcore, John</hi> knew both the Perſon, Religion, and Character of Mr. <hi>Hudleſton,</hi> and therefore with an aſſured Conſidence related unto him; how the day before the Kings Army had been utterly routed at <hi>Worceſter;</hi> how that ve<g ref="char:EOLhyphen"/>ry Morning the King himſelf with other great Perſons had come in Private to <hi>White-Ladies,</hi> how the King had been there diſgui<g ref="char:EOLhyphen"/>ſed, had diſmiſſed his Followers,
+<pb n="11" facs="tcp:151444:5"/>and was retired he knew not whi<g ref="char:EOLhyphen"/>ther with his Brother <hi>Richard.</hi> How he had endeavoured to help a brave Perſon towards his eſcape into <hi>York</hi> and <hi>London</hi> Road, but not being able to compaſs it, nor get any Harbor for him either at <hi>Ham<g ref="char:EOLhyphen"/>pton</hi> or elſewhere, he had left him at Mr. <hi>Huntbatch</hi>'s at <hi>Brinford</hi> near <hi>Moſeley,</hi> where he would be moſt certainly diſcovered, unleſs Mr. <hi>Hudleſton</hi> could prevail with his Landlord (Mr. <hi>Whitgrave</hi>) to re<g ref="char:EOLhyphen"/>ceive him, and conceal him in his Houſe. Hereupon Mr. <hi>Hudleſton</hi> carried <hi>John</hi> to his Chamber, im<g ref="char:EOLhyphen"/>parted the Affair to Mr. <hi>Whitgrave,</hi> who touched with a ſence of com<g ref="char:EOLhyphen"/>paſſion and Generoſity, willingly undertook the care (however dan<g ref="char:EOLhyphen"/>gerous to himſelf) of the diſtreſſed Lord's Concealment and Protecti<g ref="char:EOLhyphen"/>on; accordingly Mr. <hi>Whitgrave</hi> without farther delay waited up<g ref="char:EOLhyphen"/>on
+<pb n="12" facs="tcp:151444:6"/>my Lord at <hi>Brinford,</hi> comfort<g ref="char:EOLhyphen"/>ed and encouraged him by his promiſed Aſſiſtance, and in fine, ordered matters ſo, that at ten a Clock in the Night my Lord was ſafely brought to his retirement at <hi>Moſeley;</hi> the only difficulty re<g ref="char:EOLhyphen"/>maining was how to diſpoſe of my Lords two Horſes; a thing not to be diſregarded, both becauſe they would be neceſſary for my Lords farther Progreſs, as alſo for that either ſtanding as they did expoſed in an open Barn, or being brought to Mr. <hi>Whitgraves</hi> Stables adjoin<g ref="char:EOLhyphen"/>ing and obvious to the common Street, their being detected, would occaſion a diſcloſing of the whole grcret; To remedy this Mr. <hi>Whit<g ref="char:EOLhyphen"/>grave</hi> ſent a truſty Perſon to Col<g ref="char:EOLhyphen"/>lonel <hi>Lane</hi> at <hi>Bently,</hi> about three miles from <hi>Moſeley,</hi> acquainted him with my Lords arrival, and deſired him for ſome little time
+<pb n="13" facs="tcp:151444:6"/>to ſecure my Lords Horſes. The Collonel who had formerly ſerv<g ref="char:EOLhyphen"/>ed under my Lord in the Wars, not only readily complyed herein, but the ſame Night gave my Lord a private Viſit, and kindly invi<g ref="char:EOLhyphen"/>ted him to his Houſe, as the more ſecure place, adding, That his Si<g ref="char:EOLhyphen"/>ſter Miſtris <hi>Jane Lane,</hi> had procu<g ref="char:EOLhyphen"/>red a Paſs from the Governor of <hi>Stafford,</hi> for her ſelf and a Servant to go to <hi>Briſtow,</hi> by virtue of which Paſs, he might as his Siſters Servant, get clear out of the Country. My Lord thanked him for his Civility, but ſaid, he was well ſatisfied with his preſent Quarters; Yet withal entreated the Collonel he would keep the Opportunity of his Siſters Paſs, and retain his Horſes till he heard from him again. Thus they took leave of each other, and the Collo<g ref="char:EOLhyphen"/>nel returned home.</p>
+            <pb n="14" facs="tcp:151444:7"/>
+            <p>The next day being <hi>Friday,</hi> his Lordſhip ſent <hi>John Pendrel</hi> to learn what was become of the King, and what had paſſed at <hi>White-Ladies: John</hi> returning the ſame Night, brought word, That the King went the night before with his Brother <hi>Richard</hi> towards <hi>Se<g ref="char:EOLhyphen"/>vern,</hi> deſigning to paſs over into <hi>Wales.</hi> Upon this information, my Lord reſolved to accept of the proffered benefit of Miſtris <hi>Lanes Paſs,</hi> and accordingly next Morning being <hi>Saturday,</hi> he deſi<g ref="char:EOLhyphen"/>red Mr. <hi>Whitgrave</hi> to ſend to Col<g ref="char:EOLhyphen"/>lonel <hi>Lanes</hi> for his Horſes. He diſ<g ref="char:EOLhyphen"/>miſſed <hi>John</hi> in the afternoon home to <hi>White-Ladies;</hi> and the Horſes arriving at a certain Place and time apointed, about Midnight he took leave of Mr. <hi>Whitgrave</hi> with all due expreſſions of Gratitude and kindneſs, and ſo departed to <hi>Bently.</hi>
+            </p>
+            <pb n="15" facs="tcp:151444:7"/>
+            <p>
+               <hi>Saturday,</hi> And now my Lord be<g ref="char:EOLhyphen"/>ing gone, Mr. <hi>Whitgrave</hi> and Mr. <hi>Hudleſton</hi> entertained themſelves with thoughts and ſollicitudes con<g ref="char:EOLhyphen"/>cerning the King; They had heard nothing of him all that day. The laſt intelligence brought by <hi>John</hi> from <hi>White-Ladies</hi> on <hi>Friday</hi> was, That the King was gone the night before with <hi>Richard</hi> towards <hi>Severn,</hi> for <hi>Wales;</hi> but what ſuc<g ref="char:EOLhyphen"/>ceſs he had, or what was become of him ſince, they knew not, wherefore anxious between hopes and fears for his Majeſties ſafety, they reſolved to go the next day being <hi>Sunday</hi> to <hi>White-Ladies</hi> for their farther ſatisfaction; whilſt they were thus determined, and walking together very early on the backſide of the Orchard on <hi>Sunday</hi> Morning; They were ſurprized to ſee <hi>John Pendrel</hi> un<g ref="char:EOLhyphen"/>expectedly coming towards them,
+<pb n="16" facs="tcp:151444:8"/>and approaching them with a frightful Countenance, and much impetuoſity asked, where is my Lord? They told him, His Lordſhip was gone; Then (ſays the poor man in great conſterna<g ref="char:EOLhyphen"/>tion) we are all undone; For the King finding the Paſſages over <hi>Severn</hi> all guarded with Soldiers, and no poſſibility of getting into <hi>Wales,</hi> is come back to <hi>Boſcobel;</hi> And we know not what to do with him, or how to diſpoſe of him. He hath been for the moſt part ſince his Return concealed in a Tree (now called the <hi>Royal Oak</hi>) with Collonel <hi>Carloes</hi> in <hi>Boſcobel</hi> Wood, but ſearches are every where made, and the King is much dejected, having no hopes or pro<g ref="char:EOLhyphen"/>ſpect of redreſs, wherefore under<g ref="char:EOLhyphen"/>ſtanding from me I had left my Lord <hi>Wilmot</hi> here, he hath ſent me to him with orders he ſhould
+<pb n="17" facs="tcp:151444:8"/>take ſome ſpeedy courſe for his re<g ref="char:EOLhyphen"/>moval and ſecurity with him. Upon this ſad relation of <hi>John</hi>'s, Mr. <hi>Whitgrave</hi> and Mr. <hi>Hudleſton</hi> deeply moved at the Kings dan<g ref="char:EOLhyphen"/>ger and Calamity, having firſt of<g ref="char:EOLhyphen"/>fered to God their <hi>Sunday</hi> Duty for his Majeſties ſafety, accompa<g ref="char:EOLhyphen"/>nied <hi>John</hi> to my Lord at <hi>Bentley,</hi> where being admitted to his Lord<g ref="char:EOLhyphen"/>ſhip, it was upon mature delibe<g ref="char:EOLhyphen"/>ration Reſolved. That my Lord ſhould come back about Eleven at Night to <hi>Moſeley,</hi> in order to the waiting upon the King there. That <hi>John</hi> ſhould return to <hi>Boſcobel,</hi> and from thence con<g ref="char:EOLhyphen"/>duct his Majeſty to a certain ap<g ref="char:EOLhyphen"/>pointed Station near Mr. <hi>Whit<g ref="char:EOLhyphen"/>graves</hi> Houſe, where Mr. <hi>Hudle<g ref="char:EOLhyphen"/>ſton</hi> was to attend and receive him.</p>
+            <p>And what was thus deſigned, was
+<pb n="18" facs="tcp:151444:9"/>accordingly executed; My Lord came, and was conducted by Mr. <hi>Whitgrave</hi> to his Chamber; And ſome few hours after, the King attended by <hi>John,</hi> and two or three more of the <hi>Pendrel</hi> Brothers, ar<g ref="char:EOLhyphen"/>rived on a Mill Horſe near Mr. <hi>Hudleſton</hi>'s Station, where Mr. <hi>Whitgrave</hi> and Mr. <hi>Hudleſton</hi> both waited for him; Upon his arrival he was immediately conducted to my Lord, who with ſome impati<g ref="char:EOLhyphen"/>ence expected him in his Chamber. The King being thus by Gods bleſſing ſafely introduced into the Houſe, after ſome private diſcourſe had between him and my Lord, His Lordſhip addreſſing himſelf to Mr. <hi>Whitgrave</hi> and Mr. <hi>Hudle<g ref="char:EOLhyphen"/>ſton,</hi> ſaid, <hi>Gentlemen, the Perſon whom you ſee here under this Diſ<g ref="char:EOLhyphen"/>guiſe, is both your Maſter and mine, and the Maſter to whom we all owe our Duty and Allegiance;</hi> upon
+<pb n="19" facs="tcp:151444:9"/>which they both kneeling down, His Majeſty admitted them to the honor of kiſſing his Hand; Then bidding them ariſe, told them, <hi>He had received from my Lord ſo good a Character of their Loyalty, and readineſs to ſerve, and aſſiſt him, and his Friends in thoſe dangers, that he would never be unmindful of them, nor theirs.</hi> Immediately af<g ref="char:EOLhyphen"/>ter he asked, where is the private Place my Lord ſpeaks of? They then ſhewed him the place of his retreat for avoiding ſurpriſals, which having ſeen, entred into, and much approved of, he return<g ref="char:EOLhyphen"/>ed to his Chamber. He then ſat him down on his Bedſide, and Mr. <hi>Whitgrave</hi> preſented him with a little Biſcake Bread, and a Glaſs of Sack, which he took; whilſt he thus ſat, his Noſe bled; at this ac<g ref="char:EOLhyphen"/>cident Mr. <hi>Hudleſton</hi> ſeemed con<g ref="char:EOLhyphen"/>cerned, but His Majeſty ſaid it
+<pb n="20" facs="tcp:151444:10"/>was uſual with him; then taking out of his Pocket an old courſe Clout which the <hi>Pendrels</hi> had given him inſtead of a Handkerchief, he received the Blood into it, Mr. <hi>Hudleſton</hi> then preſented him with a fair Handkerchief, and kept the bloody Clout to himſelf. Af<g ref="char:EOLhyphen"/>ter this the King went to the Fire<g ref="char:EOLhyphen"/>ſide, ſat down in a Chair, and gave Mr. <hi>Hudleſton</hi> leave to pull off his Stockings and Shoes, ſtuffed within with White Paper, but yet ſo un<g ref="char:EOLhyphen"/>eaſie, wet, and full of Gravel, they had extreamly enflamed and galled his Feet.</p>
+            <p>Here it may not be unpleaſant to ſome, if we briefly deſcribe part of the Ruſtick Habit under which the King was diſguiſed, he had on a long white Steeple crowned Hat, without other <gap reason="illegible" resp="#MURP" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ming than Greaſe, both ſides of the Brim ſo doubled with handling, they looked like
+<pb n="21" facs="tcp:151444:10"/>two Spouts; a Leather Doublet full of holes, and half black with Greaſe above the Sleeves, Collan, and Waſt. An old green Wood<g ref="char:EOLhyphen"/>riffs Coat threadbare, and patch'd in moſt places, with a pair of Breeches of the ſame Cloth, and in the ſame condition, the ſlops hang<g ref="char:EOLhyphen"/>ing down looſe to the middle of his Legg; Hoſe and Shoes of dif<g ref="char:EOLhyphen"/>ferent Pariſhes; The Hoſe were grey, Stirrups much derned, and clouted, eſpecially about the knees, under which he had a pair of Flan<g ref="char:EOLhyphen"/>nel riding Stockings of his own, with the tops cut off; His Shoes had been cobled with Leather patches both on the Soals and Seams, and the Upperleathers ſo cut and ſlaſhed to adapt them to his Feet, they could no longer de<g ref="char:EOLhyphen"/>fend him either from Water or Dirt. This exotick and deformed Dreſs added to his ſhort Hair cut
+<pb n="22" facs="tcp:151444:11"/>of by the Ears, his Face coloured brown with Walnut-tree-leaves, and a rough crooked-Thorn-Stick in his Hand, had ſo metamorpho<g ref="char:EOLhyphen"/>ſed him, he became ſcarce diſcern<g ref="char:EOLhyphen"/>able who he was, even to thoſe that had been before acquainted with his Perſon, and converſant with him.</p>
+            <p>Mr. <hi>Hudleſton</hi> having cleanſed and dryed his Feet with warm Cloths, put on new Linnen and Worſted Stockings, and accommo<g ref="char:EOLhyphen"/>dated him with Slippers, and other things neceſſary for his eaſe, His Majeſty became thereby much re<g ref="char:EOLhyphen"/>freſhed and chearful, ſaying, <hi>He was now fit for a new March;</hi> ad<g ref="char:EOLhyphen"/>ding alſo, <hi>If it ſhould ever pleaſe God to bleſs him with Ten or Twelve thouſand Loyal and reſolute Men, he doubted not but to drive theſe Traitors out of his Kingdom.</hi> After
+<pb n="23" facs="tcp:151444:11"/>an hour or two's diſcourſe with my Lord <hi>Wilmot,</hi> in deliberation of what ſeem'd moſt expedient in the preſent conjuncture, it being now about five in the Morning, His Majeſty deſired to repoſe on his Bed, and the <hi>Pendrels,</hi> all but <hi>John,</hi> were diſmiſſed home.</p>
+            <p>
+               <hi>Munday,</hi> Upon the Kings firſt change of Apparel at <hi>White-Ladies,</hi> they had put him on a courſe patch'd harden Shirt, which by its roughneſs extremely incommo<g ref="char:EOLhyphen"/>ded him, and hindred his reſt. This Mr. <hi>Hudleſton</hi> obſerving, prevailed with him to accept of a new Holland Shirt of his own, and reſerved for a Memorial the courſe one to himſelf.</p>
+            <p>For the better ſecurity of his Majeſties Retreat, Mr. <hi>Whitgrave</hi> ſent forth all his Servants betimes
+<pb n="24" facs="tcp:151444:12"/>in the Morning, each to their ſe<g ref="char:EOLhyphen"/>veral Employments abroad, except one Cook Maid a Catholic, who dreſſed their Dyet; And it was farther pretended, Mr. <hi>Hudleſton</hi> had a Cavalier Friend, or Relati<g ref="char:EOLhyphen"/>on, newly eſcaped from <hi>Worceſter,</hi> who lay privately in his Chamber unwilling to be ſeen. So that this grand ſecret was imparted to none in the Houſe, but Mr. <hi>Whitgrave,</hi> Mr. <hi>Hudleſton,</hi> and Mr. <hi>Whitgraves</hi> Mother, whom my Lord <hi>Wilmot</hi> preſented to the King; And whom his Majeſty graciouſly Saluted, and confided in.</p>
+            <p>At that time Mr. <hi>Hudleſton</hi> had with him at <hi>Moſeley</hi> under his Tu<g ref="char:EOLhyphen"/>ition, young Sir <hi>John Preſton,</hi> and two other Youths, Mr. <hi>Thomas Pa<g ref="char:EOLhyphen"/>lin,</hi> and Mr. <hi>Francis Reynolds,</hi> Ne<g ref="char:EOLhyphen"/>phews to Mr. <hi>Whitgrave,</hi> theſe he placed at ſeveral Windows in the
+<pb n="25" facs="tcp:151444:12"/>Garrets from whence they had a proſpect of all the Paſſages from all parts to the Houſe, with ſtrict charge given them to bring timely notice of any, whether Soldiers or others that came near the Houſe, and herein the Boys were as ex<g ref="char:EOLhyphen"/>act and vigilant as any Centinel could be on his Guard. It is now <hi>Munday</hi> in the Forenoon, and <hi>John</hi> is ordered to go to <hi>Bentley,</hi> with directions to Collonel <hi>Lane</hi> to ſend my Lords Horſes at Night to <hi>Moſeley</hi> to convey his Lordſhip back to <hi>Bentley.</hi> His Majeſty eat conſtantly in Mr. <hi>Hudleſtons</hi> Cham<g ref="char:EOLhyphen"/>ber: Mr. <hi>Whitgrave</hi> himſelf hand<g ref="char:EOLhyphen"/>ing up all the Diſhes from below Stairs to Mr. <hi>Hudleſton</hi>'s Chamber door. And Mr. <hi>Hudleſton</hi> placing them on the Table; when all things were brought up, old Miſtris <hi>Whitgrave</hi> was called in, and com<g ref="char:EOLhyphen"/>manded to ſit down and Carve,
+<pb n="26" facs="tcp:151444:13"/>whilſt Mr. <hi>Whitgrave</hi> and Mr. <hi>Hu<g ref="char:EOLhyphen"/>dleſton</hi> waited behind the King.</p>
+            <p>This day His Majeſty ſpent part<g ref="char:EOLhyphen"/>ly in repoſing and refreſhing him<g ref="char:EOLhyphen"/>ſelf from the Fatigues of his for<g ref="char:EOLhyphen"/>mer Journeys and hardſhips, and partly in recapitulating the late Tranſactions; and taking a View of the preſent poſture of Affairs. He recounted his proceedings in <hi>Scotland,</hi> and deſcribed the me<g ref="char:EOLhyphen"/>thods of his March from thence to <hi>Worceſter.</hi> He inquired how the Gentlemen of the Country were affected towards him, and ſent Mr. <hi>Whitgrave</hi> to <hi>Wolverhampton</hi> to get intelligence of Affairs; ſometimes he entertained himſelf at a Window opening to the com<g ref="char:EOLhyphen"/>mon Street, from whence he had the deplorable ſight of divers of his own poor Soldiers, even of thoſe whom he knew of his own
+<pb n="27" facs="tcp:151444:13"/>Regiment, the ſad remains of <hi>Worceſter</hi> Fight; ſome of theſe had in their Hands Peaſe in the Straw, gathered from the Field-ſides as they came along, others were eating Cabbage-Stalks and Leaves which were thrown out of Gar<g ref="char:EOLhyphen"/>dens into the High-Ways, not da<g ref="char:EOLhyphen"/>ring ſo much as to beg for Food. Others again wounded and maim<g ref="char:EOLhyphen"/>ed, ſought for Relief at the Door, whoſe Sores Miſtris <hi>Whitgrave</hi> with great tenderneſs and Charity dreſſed.</p>
+            <p>At Night my Lord <hi>Wilmot</hi>'s Horſes arrived as was appointed from <hi>Bentley,</hi> whither his Lord<g ref="char:EOLhyphen"/>ſhip accordingly returned with farther directions, That Collonel <hi>Lane</hi> ſhould the next Night fol<g ref="char:EOLhyphen"/>lowing, himſelf bring the Horſes back to <hi>Moſeley,</hi> in order to the Conveyance of his Majeſty to
+<pb n="28" facs="tcp:151444:14"/>
+               <hi>Bentley.</hi> The King intending to take the benefit profered to my Lord <hi>Wilmot</hi> of Miſtris <hi>Jane Lane</hi>'s forementioned Paſs, to quit the Country.</p>
+            <p>The next day, <hi>viz. Tueſday,</hi> the King converſed for the moſt part with Mr. <hi>Hudleſton;</hi> Mr. <hi>Whit<g ref="char:EOLhyphen"/>grave,</hi> and his Mother, being em<g ref="char:EOLhyphen"/>ployed in the diſcharge of their ſeveral duties towards his Maje<g ref="char:EOLhyphen"/>ſties accommodation, and ſafe<g ref="char:EOLhyphen"/>guard below ſtairs. He was pleaſ<g ref="char:EOLhyphen"/>ed to enquire how <hi>Roman Catho<g ref="char:EOLhyphen"/>lics</hi> lived under the preſent Uſurp<g ref="char:EOLhyphen"/>ed Government; Mr. <hi>Hudleſton</hi> told him they were Perſecuted on account both of their Religion and Loyalty; yet his Majeſty ſhould ſee they did not neglect the Duties of their Church; hereup<g ref="char:EOLhyphen"/>on he carried him up Stairs, and ſhewed him the Chappel, little,
+<pb n="29" facs="tcp:151444:14"/>but neat and decent. The King looking reſpectfully upon the Al<g ref="char:EOLhyphen"/>tar, and regarding the Crucifix and Candleſticks upon it, ſaid; <hi>He had an Altar, Crucifix and Silver Candleſticks of his own, till my Lord of</hi> Holland <hi>brake them, which</hi> (ad<g ref="char:EOLhyphen"/>ded the King) <hi>he hath now paid for.</hi> His Majeſty ſpent likewiſe ſome<g ref="char:EOLhyphen"/>time in peruſing Mr. <hi>Hudleſton</hi>'s Books, amongſt which attentively reading a ſhort Manuſcript writ by Mr. <hi>Richard Hudleſton,</hi> a <hi>Bene<g ref="char:EOLhyphen"/>dictine Monk,</hi> Entitled, <hi>A Short and Plain Way to the Faith and Church;</hi> He expreſſed his Senti<g ref="char:EOLhyphen"/>ments of it in theſe poſitive Words. <hi>I have not ſeen any thing more plain and clear upon this Subject. The Arguments here drawn from Succeſſion, are ſo concluſive; I do not conceive how they can be denyed.</hi> He alſo took a view of Mr. <hi>Tur<g ref="char:EOLhyphen"/>bervill</hi>'s Catechiſm, and ſaid, <hi>it was a
+<pb n="30" facs="tcp:151444:15"/>pretty Book, and he would take it along with him.</hi>
+            </p>
+            <p>This afternoon a Party of the Rebels unexpectedly came to ſearch <hi>Moſeley</hi> for Mr. <hi>Whitgrave;</hi> their approach was timely diſcovered, and a Servant came running up Stairs towards the Chamber where the King lay, and cryed out Soldi<g ref="char:EOLhyphen"/>ers, Soldiers are coming; upon this Alarm the King was immedi<g ref="char:EOLhyphen"/>ately conveyed by Mr. <hi>Whitgrave</hi> into the Private place, or Recepta<g ref="char:EOLhyphen"/>cle before mentioned, which al<g ref="char:EOLhyphen"/>ways ſtood open and ready in caſe of contingencies for his Maje<g ref="char:EOLhyphen"/>ſties Retreat. And Mr. <hi>Whit<g ref="char:EOLhyphen"/>grave</hi> to prevent farther ſearch, and thereby to ſecure the King from hazard of Diſcovery, gene<g ref="char:EOLhyphen"/>rouſly went down, and expoſed himſelf to the ſight and ſury of the Soldiers, who violently ſeiſed upon
+<pb n="31" facs="tcp:151444:15"/>him, and would have hurried him to Priſon, as a Perſon engaged for the King in <hi>Worceſter</hi> Fight; but he aſſured them he had been a long time ſick and infirm at home, and called in the Neighbours to atteſt the ſame, wherefore after much diſpute, they at length let him go and departed. When they had quitted the Town and not before, Mr. <hi>Whitgrave</hi> returned, and with Mr. <hi>Hudleſton,</hi> helped the King out of his Confinement, and attended him in his Chamber. Mr. <hi>Hudle<g ref="char:EOLhyphen"/>ſton</hi> knew the King was acquainted with his Character and Function, and conſequently alſo of his being obnoctious to the Sanguinary Laws, and therefore ſaid, <hi>Your Majeſty is in ſome ſort in the ſame condition with me now, lyable to dangers and perils, but I hope God that brought you hither, will preſerve you here. And that You will be as ſafe in this
+<pb n="32" facs="tcp:151444:16"/>place, as in any Caſtle of Your Domi<g ref="char:EOLhyphen"/>nions.</hi>
+            </p>
+            <p>The King addreſſing himſelf both to Mr. <hi>Whitgrave</hi> and Mr. <hi>Hudleſton,</hi> Replyed, <hi>If it pleaſe God I come to my Crown, both you, and all of your Perſwaſion, ſhall have as much liberty as any of my Subjects.</hi>
+            </p>
+            <p>It is now <hi>Tueſday</hi> Night, and the hour of His Majeſties departure from <hi>Moſeley</hi> approaches. At twelve a Clock Mr. <hi>Whitgrave</hi> informed his Majeſty that Collonel <hi>Lane</hi> at<g ref="char:EOLhyphen"/>tended at the place appointed, with the Horſes to conduct him to <hi>Bent<g ref="char:EOLhyphen"/>ley.</hi> His Majeſty then with all the reſentments of Kindneſs and Grati<g ref="char:EOLhyphen"/>tude for their Fidelity, and indefa<g ref="char:EOLhyphen"/>tigable care, day and night in his Service, bid adieu to Mr. <hi>Whit<g ref="char:EOLhyphen"/>grave,</hi> his Mother, and Mr. <hi>Hudle<g ref="char:EOLhyphen"/>ſton;</hi> they kneeling down, begged
+<pb n="33" facs="tcp:151444:16"/>his Majeſties pardon for any mi<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>takes they might have committed through ignorance or inadvertency in diſcharge of their Duty. And thus accompanied by Mr. <hi>Whitgrave</hi> and Mr. <hi>Hudleſton,</hi> the King went down to the corner of the Orchard, where the Collonel expected with the Horſes, Mr. <hi>Hudleſton</hi> reflecting on the coldneſs of the ſeaſon, and thinneſs of his Majeſties Diſguiſe, humbly implored he would vouch<g ref="char:EOLhyphen"/>ſafe to accept of his Cloak for a Protection from the ſeverity of the Weather. The King put it on; Then again they all making their Obeiſance, and with tears implo<g ref="char:EOLhyphen"/>ring the Divine Goodneſs for his Majeſties ſafeguard, the King mounted, and came that Night to <hi>Bentley.</hi> From whence by means of the above mentioned Paſs of Miſtris <hi>Lane,</hi> he eſcaped under the notion of her Servant out of the
+<pb n="34" facs="tcp:151444:17" rendition="simple:additions"/>Country and Nation, remaining b<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>yond the Seas till the time of hi<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> no leſs wonderful Reſtauration.</p>
+            <p>This is the ſum of the ſignal Preſervation of the Sacred Life and Perſon of our late Sovereign Lord King <hi>Charles</hi> II. at <hi>Moſeley,</hi> wherein the Almighty Hand of God is clearly manifeſt, not only in the Preſervation it ſelf, but alſo in effecting the ſame by Means ſo weak, and diſproportionable to the End. <hi>To him be Honor and Glo<g ref="char:EOLhyphen"/>ry for ever.</hi> Amen.</p>
+            <closer>
+               <signed>
+                  <list>
+                     <item>
+                        <hi>Thomas Whitgrave,</hi>
+                     </item>
+                     <item>
+                        <hi>John Hudleſton.</hi>
+                     </item>
+                  </list>
+               </signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:151444:17"/>
+         </div>
+      </body>
+   </text>
+</TEI>
